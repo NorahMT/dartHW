@@ -6,9 +6,9 @@ void main(List<String> arguments) {
   print(swapNumber(3));
 
   print(checkLetters("toosmallword"));
-  print(checkLetters("abcdefghijklmNOPQRSTUVWXYZ"));
   print(checkLetters("The quick brown fox jumps over three meter and better than a lazy dog"));
-
+  print(checkLetters("haieyhsoc"));
+  
   countLetters("mississippi");
   countLetters("successful");
 }
